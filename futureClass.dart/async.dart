@@ -7,4 +7,3 @@ void main() async {
 Future<void> display() async {
   Future.delayed(Duration(seconds: 5), () => print("line 2"));
 }
-w

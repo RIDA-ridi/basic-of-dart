@@ -24,4 +24,5 @@ void main() {
   print(cat.name);
   print(cat.color);
   dog.eat();
+  print(mammal.name);
 }
